@@ -1,10 +1,18 @@
 # PCB Design Coursework — PCB 4095
 
-A repository for work from my ongoing PCB design class.
+A portfolio of work from my ongoing PCB design class, including a photo of the assembled board for Project 2.
+
+## Project 2 — PCB Hardware
+
+![Project 2 PCB showing copper traces and assembled surface-mount components](projects/project-2/images/assembled-pcb.jpg)
+
+The photo above shows the PCB for **Project 2** of my PCB course. Visible features include copper routing, surface-mount integrated circuits, resistors, capacitors, and LEDs.
+
+See the [Project 2 overview](projects/project-2/README.md) for the available artifact and documentation status.
 
 ## Current status
 
-The course is in progress. This repository currently contains this overview; design files and project results have not yet been uploaded.
+The course is in progress. A Project 2 hardware photo is available; the circuit objective, design files, individual contributions, and measured results are still to be documented.
 
 ## Documentation plan
 
