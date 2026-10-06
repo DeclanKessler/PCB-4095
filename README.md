@@ -10,11 +10,13 @@ The photo above shows the PCB for **Project 2** of my PCB course. The circuit se
 
 Visible board features include copper routing, surface-mount integrated circuits, resistors, capacitors, and LEDs.
 
+**My contribution:** I completed the full project, including circuit and PCB design, etching the copper-clad board, and soldering the components.
+
 See the [Project 2 overview](projects/project-2/README.md) for the available artifact and documentation status.
 
 ## Current status
 
-The course is in progress. Project 2 includes a hardware photo and a description of its light-sensing and LED behavior. Design files, individual contributions, and measured results are still to be documented.
+The course is in progress. Project 2 includes a hardware photo, functional description, and my design/fabrication/assembly contributions. Design files and measured results are still to be documented.
 
 ## Documentation plan
 
