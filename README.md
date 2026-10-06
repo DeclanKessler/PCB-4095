@@ -2,17 +2,19 @@
 
 A portfolio of work from my ongoing PCB design class, including a photo of the assembled board for Project 2.
 
-## Project 2 — PCB Hardware
+## Project 2 — Light-Sensing LED PCB
 
 ![Project 2 PCB showing copper traces and assembled surface-mount components](projects/project-2/images/assembled-pcb.jpg)
 
-The photo above shows the PCB for **Project 2** of my PCB course. Visible features include copper routing, surface-mount integrated circuits, resistors, capacitors, and LEDs.
+The photo above shows the PCB for **Project 2** of my PCB course. The circuit senses ambient room light and turns on LEDs accordingly. When the light sensor is completely covered, **two LEDs blink at 8 Hz**.
+
+Visible board features include copper routing, surface-mount integrated circuits, resistors, capacitors, and LEDs.
 
 See the [Project 2 overview](projects/project-2/README.md) for the available artifact and documentation status.
 
 ## Current status
 
-The course is in progress. A Project 2 hardware photo is available; the circuit objective, design files, individual contributions, and measured results are still to be documented.
+The course is in progress. Project 2 includes a hardware photo and a description of its light-sensing and LED behavior. Design files, individual contributions, and measured results are still to be documented.
 
 ## Documentation plan
 
