@@ -1,6 +1,10 @@
 # PCB Design Coursework — PCB 4095
 
-A portfolio of work from my ongoing PCB design class, including a photo of the assembled board for Project 2.
+A portfolio of work from my ongoing PCB design class, including KiCad design files for Project 1 and assembled hardware for Project 2.
+
+## Project 1 — KiCad Circuit and PCB Design
+
+The [Project 1 page](projects/project-1/README.md) includes an editable KiCad schematic, PCB layout, project settings, and browser-viewable schematic and layout previews. The schematic includes TL072 operational amplifiers, LEDs, and passive components.
 
 ## Project 2 — Light-Sensing LED PCB
 
@@ -16,7 +20,7 @@ See the [Project 2 overview](projects/project-2/README.md) for the available art
 
 ## Current status
 
-The course is in progress. Project 2 includes a hardware photo, functional description, and my design/fabrication/assembly contributions. Design files and measured results are still to be documented.
+The course is in progress. Project 1 includes KiCad source files and previews. Project 2 includes a hardware photo, functional description, and my design/fabrication/assembly contributions. Additional design explanations and measured results are still to be documented.
 
 ## Documentation plan
 
