@@ -9,6 +9,16 @@ A light-sensing LED circuit built on a PCB for Project 2 of my PCB design course
 
 The 8 Hz blink rate is the reported project behavior; a waveform or timing measurement has not yet been uploaded.
 
+## My contribution
+
+I completed the entire project, from design through physical assembly:
+
+- Designed the circuit and PCB layout.
+- Etched the PCB from a copper-clad base board to form the circuit traces.
+- Soldered the components onto the board.
+
+This project combines circuit design, PCB fabrication, and hands-on assembly in a single working hardware build.
+
 ## Assembled board
 
 ![Assembled Project 2 PCB](images/assembled-pcb.jpg)
@@ -21,7 +31,7 @@ The board photograph shows copper traces and assembled surface-mount components,
 | --- | --- |
 | Assembled PCB photograph | Included above |
 | Circuit purpose | Ambient-light sensing with LED indication and an 8 Hz blinking response when the sensor is fully covered |
-| My role in design, fabrication, and assembly | To be documented |
+| My role | Complete circuit/PCB design, copper-board etching, and component soldering |
 | Schematic and PCB layout source files | Not yet uploaded |
 | Bill of materials | Not yet uploaded |
 | Functional test procedure and measured results | Not yet uploaded |
@@ -29,7 +39,7 @@ The board photograph shows copper traces and assembled surface-mount components,
 ## Documentation to add
 
 - Document the sensor type, LED activation thresholds, blink-generation circuit, and assignment constraints.
-- Describe my specific contributions and the tools and fabrication process used.
+- Add the design software, board material, and details of the etching and assembly process.
 - Link the schematic, layout, and component list.
 - Document the test setup, LED behavior at different light levels, measured blink frequency, and any troubleshooting or revisions.
 
