@@ -1,0 +1,1 @@
+date,test_case,lighting_condition,supply_voltage_v,supply_current_ma,led_identifier,cycles_counted,elapsed_seconds,frequency_hz,period_ms,duty_cycle_percent,instrument,notes

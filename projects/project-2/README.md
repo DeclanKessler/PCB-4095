@@ -34,7 +34,12 @@ The board photograph shows copper traces and assembled surface-mount components,
 | My role | Complete circuit/PCB design, copper-board etching, and component soldering |
 | Schematic and PCB layout source files | Not yet uploaded |
 | Bill of materials | Not yet uploaded |
-| Functional test procedure and measured results | Not yet uploaded |
+| Functional test procedure | [Ambient-light response and blink-frequency test plan](test-plan.md) |
+| Measured results | [Measurement log](measurements.csv) prepared; no readings recorded yet |
+
+## Testing and timing
+
+The reported **8 Hz** blinking corresponds to a **125 ms period**. The [test plan](test-plan.md) describes how to measure each LED's frequency, duty cycle, light response, and recovery behavior. The [CSV log](measurements.csv) is ready for future measurements.
 
 ## Documentation to add
 
